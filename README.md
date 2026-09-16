@@ -1,17 +1,32 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGg2eDd2c3dpeHM1dGNjeTI3bjl2MnYxcWZkcXlieTJrenQwMnZ1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcH7WRAnKKWhR7y/giphy.gif" width="1000" height="400" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGg2eDd2c3dpeHM1dGNjeTI3bjl2MnYxcWZkcXlieTJrenQwMnZ1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcH7WRAnKKWhR7y/giphy.gif" width="1000" height="200" />
 
 ## About me
-<p> Hi! </p>
-<p>I'm Evy, I'm a third year student studying Software Development. </p><br>
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzlueGQzb2Q3aGFqbzF6cThrNmY2cHF4ZzA0ajBneGN3cTEzajNjbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/n9lo5irZrF9q8/giphy.gif" width="200" height="200" /></p> 
+<div align ="center">
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzlueGQzb2Q3aGFqbzF6cThrNmY2cHF4ZzA0ajBneGN3cTEzajNjbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/n9lo5irZrF9q8/giphy.gif" width="15%" align="right" />
+ <br><br>
+ <pre>
+  Hi! 
+  I'm Evy. 
+  A Software Developer student with 3 years of experience. 
+  I've mainly been working on Full-Stack, Software and Game projects. 
+ </pre>
+</div>
+
+
+</br>
 
 ### Current projects
+
+<pre>
 
 ✰ I’m currently working on **QuizMaster**
 
 ✰ I’m currently working on **Console Menu + End point testing**
 
 ✰ I’m currently working on **DocFlow**
+
+✰ I'm currently working on **Rebuilding Website Dogclub**
+</pre>
  
 ## Tech & Tools
 
@@ -72,11 +87,10 @@
              alt="" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Console Menu + End point testing</b><br/>
-      <b>!Work in progress!</b><br/>
-      <sub>Learning to make an Api and how to test end-points using python</sub> <br/>
-      <sub>Tags: Python, FastApi, Uvicorn, Postman</sub><br/>
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repository</a>
+      <b>Rebuilding Website Dogclub</b><br/>
+      <b>!Work in progress + Own project!</b><br/>
+      <sub>I got asked to rebuild their website since the owner couldn't update the website anymore</sub> <br/>
+      <sub>Tags: Wordpress</sub><br/>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
@@ -84,8 +98,8 @@
              alt="" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Console Menu + End point testing</b><br/>
-      <b>!Work in progress!</b><br/>
+      <b>Rebuilding Website</b><br/>
+      <b>!Work in progress + !</b><br/>
       <sub>Learning to make an Api and how to test end-points using python</sub> <br/>
       <sub>Tags: Python, FastApi, Uvicorn, Postman</sub><br/>
       <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repository</a>
