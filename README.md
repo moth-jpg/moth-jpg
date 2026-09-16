@@ -66,7 +66,7 @@
       <a href="https://github.com/moth-jpg/SpprPython">Repository</a>
     </td>
     <td align="center" width="33%">
-        <img src="" alt="QuizMaster" style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="https://github.com/moth-jpg/moth-jpg/blob/main/QuizMaster.png" alt="QuizMaster" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>QuizMaster</b><br/>
