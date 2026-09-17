@@ -104,7 +104,7 @@
       <b></b><br/>
       <sub>Made a Chess game using TicTacToe logic</sub> <br/>
       <sub>Tags: Visual Studio 2022, C#</sub><br/>
-      <a href="https://github.com/moth-jpg/TikTakChess">Repository</a>
+      <a href="https://github.com/moth-jpg/TikTakChesss">Repository</a>
     </td>
   </tr>
 </table>
