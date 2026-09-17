@@ -76,26 +76,16 @@
       <a href="https://github.com/moth-jpg/QuizMaster">Repository</a>
     </td>
     <td align="center" width="33%">
-        <img src="https://github.com/moth-jpg/moth-jpg/blob/main/DocFlow.png" alt="" style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>DocFlow</b><br/>
-      <b>!Work in progress!</b><br/>
-      <sub>Learning to make an Api and how to test end-points using python</sub> <br/>
-      <sub>Tags: Php, Composer</sub><br/>
-      <a href="">Repository</a>
-    </td>
+         <img src="https://github.com/moth-jpg/moth-jpg/blob/main/wordpress.jpg" alt="" style="width:100%; height:200px; object-fit:cover;"/>
+       </a>
+       <br/>
+       <b>Rebuilding Website Dogclub</b><br/>
+       <b>!Work in progress + Own project!</b><br/>
+       <sub>I got asked to rebuild their website since the owner couldn't update the website anymore</sub> <br/>
+       <sub>Tags: Wordpress</sub><br/>
+     </td>
   </tr>
   <tr>
-   <td align="center" width="33%">
-        <img src="https://github.com/moth-jpg/moth-jpg/blob/main/wordpress.jpg" alt="" style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Rebuilding Website Dogclub</b><br/>
-      <b>!Work in progress + Own project!</b><br/>
-      <sub>I got asked to rebuild their website since the owner couldn't update the website anymore</sub> <br/>
-      <sub>Tags: Wordpress</sub><br/>
-    </td>
    <td align="center" width="33%">
         <img src="https://github.com/moth-jpg/moth-jpg/blob/main/MTGMania.png" alt="" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
